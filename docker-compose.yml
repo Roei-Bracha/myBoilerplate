@@ -1,0 +1,58 @@
+version: "3.9"
+
+services:
+    # client-side: #name of the service
+    #     container_name: client-side # name of the container
+    #     build: ./client-side/ #where its find the docker file that tell him how to build it
+    #     command: npm start # the commentd we wont it to run after the build
+    #     working_dir: /usr/src/app #what is the working dir
+    #     ports: # port forwording
+    #     - "3000:3000"
+    #     volumes: #allow accsess to the file system of the docker container - allow live changing between the host and the container
+    #     - ./client-side/:/usr/src/app # hostPath:containerPath
+    
+    backend:
+        container_name: backend
+        build: ./server/ #where its find the docker file that tell him how to build it
+        command: npm run develop # the commentd we wont it to run after the build
+        working_dir: /usr/src/app #what is the working dir
+        ports: # port forwording
+            - "80:80"
+        volumes: #allow accsess to the file system of the docker container - allow live changing between the host and the container
+            - ./server/:/usr/src/app # hostPath:containerPath
+        links:
+            - postgres
+        environment:
+            POSTGRES_URI: postgres://myUser:123456@postgres:5432/db
+            PASSWORD_SALT: "myPasswordSalt"
+            PORT: 80
+        networks:
+            - postgres
+    postgres:
+        build: ./db
+        restart: unless-stopped
+        ports:
+            - "5432:5432"
+        environment:
+            POSTGRES_USER: myUser
+            POSTGRES_PASSWORD: 123456
+            POSTGRES_DB: db
+            POSTGRES_HOST: postgres
+        networks:
+            - postgres
+
+    pgadmin:
+        container_name: pgadmin4_container
+        image: dpage/pgadmin4
+        restart: always
+        environment:
+            PGADMIN_DEFAULT_EMAIL: admin@admin.com
+            PGADMIN_DEFAULT_PASSWORD: root
+        ports:
+            - "5050:80"
+        networks:
+            - postgres
+
+networks:
+    postgres:
+        driver: bridge
