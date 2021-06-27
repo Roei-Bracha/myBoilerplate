@@ -1,0 +1,476 @@
+2021-06-26T18:27:27.907Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:27:30.510Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:29:57.207Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:30:04.912Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:30:15.331Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:31:48.364Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:31:51.873Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:31:53.631Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:31:59.052Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:32:19.661Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:36:00.867Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:37:14.945Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-26T18:37:20.740Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:02:23.754Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:06:29.869Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:08:36.825Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:25:01.929Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:25:14.655Z [32minfo[39m: [32m[32minfo[32m[39m
+2021-06-27T16:25:14.657Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:25:25.201Z [32minfo[39m: [32mpostgres://myUser:123456@postgres:5432/db[39m
+2021-06-27T16:25:25.203Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:28:18.364Z [32minfo[39m: [32mpostgres://myUser:123456@postgres:5432/db[39m
+2021-06-27T16:28:18.485Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:28:18.485Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:28:23.260Z [32minfo[39m: [32mpostgres://myUser:123456@postgres:5432/db[39m
+2021-06-27T16:28:23.353Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:28:23.353Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:28:33.129Z [32minfo[39m: [32mpostgres://myUser:123456@postgres:5432/db[39m
+2021-06-27T16:28:33.207Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:28:33.207Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:28:41.540Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:28:41.541Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:28:50.965Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:28:50.966Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:15.166Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:15.167Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:19.941Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:19.942Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:24.587Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:24.588Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:28.359Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:28.360Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:34.230Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:34.232Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:29:38.982Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:29:38.983Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:05.496Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:05.498Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:17.050Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:17.051Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:24.934Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:24.935Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:28.539Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:28.540Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:31.814Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:31.816Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:41.013Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:41.014Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:43.311Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:43.312Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:30:45.164Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:30:45.165Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:33:55.820Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:33:55.821Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:33:58.782Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:33:58.783Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:34:20.891Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:34:20.892Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:34:54.844Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:34:54.845Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:34:58.306Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:34:58.307Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:35:22.512Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:35:22.513Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:35:28.015Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:35:28.017Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:35:33.260Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:35:33.261Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:35:51.343Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:35:51.344Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:36:00.892Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:36:00.893Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:38:46.439Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:38:46.440Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:32.225Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:32.226Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:44.323Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:44.324Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:47.013Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:47.014Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:53.315Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:53.316Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:55.713Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:55.715Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:39:58.060Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:39:58.062Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:01.847Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:01.849Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:05.335Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:05.336Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:07.453Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:07.454Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:16.993Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:16.994Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:26.288Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:26.290Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:40:36.644Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:40:36.646Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:08.148Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:08.149Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:12.051Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:12.052Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:16.845Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:16.846Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:19.583Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:19.584Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:24.351Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:24.353Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:28.998Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:28.999Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:31.517Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:31.518Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:35.740Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:35.741Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:38.291Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:38.292Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:44.644Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:44.645Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:41:52.559Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:41:52.560Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:00.068Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:00.069Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:01.800Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:01.801Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:03.592Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:03.593Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:18.986Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:18.987Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:33.353Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:33.354Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:35.140Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:35.142Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:36.993Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:36.995Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:42.365Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:42.367Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:42:46.674Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:42:46.675Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:14.021Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:14.022Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:15.965Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:15.966Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:22.395Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:22.396Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:36.790Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:36.791Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:38.668Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:38.669Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:44:45.058Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:44:45.060Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:45:06.297Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:45:06.298Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:45:10.682Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:45:10.683Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:45:24.904Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:45:24.906Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:45:27.512Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:45:27.513Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:45:38.491Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:45:38.492Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:46:22.061Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:46:22.062Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:46:33.698Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:46:33.699Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:46:48.061Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:46:48.062Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:46:53.178Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:46:53.180Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:46:57.602Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:46:57.603Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:00.374Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:00.375Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:03.895Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:03.897Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:08.290Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:08.291Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:14.774Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:14.775Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:18.840Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:18.842Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:21.102Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:21.103Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:23.484Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:23.485Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:26.188Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:26.189Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:36.908Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:36.909Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:42.647Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:42.648Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:44.448Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:44.449Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:46.333Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:46.334Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:48.187Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:48.188Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:50.305Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:50.307Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:57.870Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:57.872Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:47:59.973Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:47:59.976Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:35.521Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:35.522Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:38.103Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:38.104Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:40.502Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:40.503Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:43.022Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:43.023Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:48.472Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:48.473Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:50.925Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:50.926Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:54.662Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:54.663Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:48:58.788Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:48:58.791Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:01.624Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:01.626Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:06.288Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:06.289Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:17.977Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:17.978Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:20.543Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:20.544Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:29.775Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:29.776Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:44.033Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:44.035Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:49:47.386Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:49:47.387Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:50:40.033Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:50:40.034Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:50:57.335Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:50:57.336Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:51:01.686Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:51:01.688Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:51:18.609Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:51:18.610Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:51:25.510Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:51:25.511Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:52:25.457Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:52:25.458Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:52:28.226Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:52:28.227Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:52:35.679Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:52:35.680Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:52:38.964Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:52:38.965Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:55:36.690Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:55:36.691Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:55:41.214Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:55:41.215Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T16:59:18.307Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T16:59:18.308Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:00:47.659Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:00:47.660Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:01:01.624Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:01:01.625Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:01:13.467Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:01:13.469Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:01:30.586Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:01:30.587Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:07.624Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:07.625Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:11.026Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:11.027Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:14.052Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:14.053Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:17.122Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:17.123Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:24.338Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:24.339Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:06:28.077Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:06:28.078Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:08:53.226Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:08:53.228Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:08:56.266Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:08:56.268Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:08:58.473Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:08:58.475Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:09:07.903Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:09:07.905Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:09:09.859Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:09:09.860Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:11:18.289Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:11:18.290Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:12:01.619Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:12:01.621Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:12:52.450Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:12:52.451Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:13:27.241Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:13:27.242Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:03.467Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:03.468Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:08.291Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:08.292Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:23.844Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:23.845Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:31.073Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:31.074Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:37.869Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:37.871Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:14:42.853Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:14:42.854Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:15:48.766Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:15:48.767Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:16:01.963Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:16:03.789Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:16:51.818Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:16:53.843Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:16:53.845Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:16:57.661Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:16:57.662Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:12.166Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:12.168Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:25.339Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:25.340Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:29.353Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:29.354Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:38.392Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:38.394Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:44.133Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:44.134Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:17:52.340Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:17:52.341Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:01.060Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:01.061Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:08.738Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:08.739Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:27.034Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:27.035Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:32.152Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:32.153Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:34.104Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:34.105Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:18:54.819Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:18:54.820Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:19:10.240Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:19:10.241Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:19:17.307Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:19:17.308Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:19:20.344Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:19:20.345Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:20:34.703Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:20:34.705Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:20:57.553Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:20:57.554Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:09.214Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:09.215Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:12.303Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:12.304Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:18.699Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:18.700Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:21.781Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:21.782Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:26.597Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:26.598Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:35.169Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:35.170Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:41.038Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:41.040Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:21:50.795Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:21:50.797Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:23:02.564Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:23:02.565Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:24:49.607Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:24:49.608Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:24:52.856Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:24:52.857Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:25:39.203Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:25:39.204Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:25:47.652Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:25:47.652Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:26:14.809Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:26:14.810Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:27:19.260Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:27:19.261Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:28:00.078Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:28:00.078Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:28:04.991Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:28:04.992Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:28:23.671Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:28:23.672Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:41:20.713Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:41:20.714Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:41:42.893Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:41:42.894Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:41:47.618Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:41:47.619Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:41:53.945Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:41:53.946Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:43:25.567Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:43:25.568Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:43:28.158Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:43:28.160Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:43:53.873Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:43:53.874Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:44:56.265Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:44:56.266Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:45:27.571Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:45:27.572Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:46:30.231Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:46:30.232Z [32minfo[39m: [32mthe server is running on port undefined 🚀[39m
+2021-06-27T17:47:01.440Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:47:01.442Z [32minfo[39m: [32minit[39m
+2021-06-27T17:47:01.445Z [32minfo[39m: [32mthe server is running on port undefined 🚀[39m
+2021-06-27T17:47:06.289Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:47:06.290Z [32minfo[39m: [32minit[39m
+2021-06-27T17:47:06.293Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:47:16.386Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:47:16.388Z [32minfo[39m: [32minit[39m
+2021-06-27T17:47:16.390Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:48:07.215Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:48:07.216Z [32minfo[39m: [32minit[39m
+2021-06-27T17:48:07.219Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:48:09.902Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:48:09.904Z [32minfo[39m: [32minit[39m
+2021-06-27T17:48:09.906Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:48:36.689Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:48:36.691Z [32minfo[39m: [32minit[39m
+2021-06-27T17:48:36.694Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:49:05.373Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:49:05.374Z [32minfo[39m: [32minit[39m
+2021-06-27T17:49:05.378Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:49:33.450Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:49:33.451Z [32minfo[39m: [32minit[39m
+2021-06-27T17:49:33.454Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:50:01.367Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:50:01.368Z [32minfo[39m: [32minit[39m
+2021-06-27T17:50:01.370Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:51:26.625Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:51:26.627Z [32minfo[39m: [32minit[39m
+2021-06-27T17:51:26.629Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:51:30.254Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:51:30.256Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:51:30.288Z [32minfo[39m: [32minit[39m
+2021-06-27T17:51:42.206Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:51:42.208Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:51:44.730Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:51:44.731Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:51:49.021Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:51:49.022Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:15.873Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:15.874Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:20.996Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:20.998Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:23.999Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:24.000Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:34.072Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:34.074Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:38.904Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:38.906Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:42.040Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:42.042Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:52:49.727Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:52:49.728Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:53:36.045Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:53:36.047Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:54:24.924Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:54:24.926Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:54:59.330Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:54:59.332Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
+2021-06-27T17:55:50.548Z [32minfo[39m: [32mConnection has been established successfully.[39m
+2021-06-27T17:55:50.550Z [32minfo[39m: [32mthe server is running on port 80 🚀[39m
