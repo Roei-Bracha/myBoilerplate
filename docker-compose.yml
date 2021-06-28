@@ -23,6 +23,7 @@ services:
         links:
             - postgres
         environment:
+            NODE_ENV: development
             POSTGRES_URI: postgres://myUser:123456@postgres:5432/db
             PASSWORD_SALT: "myPasswordSalt"
             PORT: 80
