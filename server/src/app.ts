@@ -14,5 +14,5 @@ server.listen(port, async () => {
     initialize(true, true); // drop all the tables create new ones and seed data
   }
   logger.info(`the server is running on port ${port} 🚀`);
-  logger.info(`you are in ${process.env.NODE_ENV !== "production" ? "production" : "develop" } mode`);
+  logger.info(`you are in ${process.env.NODE_ENV !== "production" ? "develop" : "production" } mode`);
 });
